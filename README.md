@@ -40,4 +40,4 @@ Write your paragraph on the importance of the required plot elements here.
 
 Leo Couchon, lcouchon, 2301141
 
-The importance of the plot elements - 
+I wasn't able to complete this homework - it was a difficult week. 
