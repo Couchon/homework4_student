@@ -36,3 +36,8 @@ Then, you can see if you made an error with your git add, commit, or push comman
 
 ### _your name and UW net ID_
 Write your paragraph on the importance of the required plot elements here.
+
+
+Leo Couchon, lcouchon, 2301141
+
+The importance of the plot elements - 
